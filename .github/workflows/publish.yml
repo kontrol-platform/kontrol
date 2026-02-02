@@ -11,7 +11,7 @@ env:
 
 jobs:
   build-and-push:
-    runs-on: runner-2
+    runs-on: rx-1
     permissions:
       contents: read
       packages: write
