@@ -11,7 +11,7 @@ env:
 
 jobs:
   build-and-push:
-    runs-on: kontrol
+    runs-on: kontrol-platform
     permissions:
       contents: read
       packages: write
